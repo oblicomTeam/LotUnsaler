@@ -1,0 +1,7 @@
+author: sn0wmatt
+database: false
+description: Changes the colour and content of signs to show ownership of lots.
+main: me.sn0wmatt.plugins.lotunsaler.lotunsaler
+name: Lot Unsaler
+startup: postworld
+version: '1.0'
